@@ -1,5 +1,6 @@
 List
 
+- [How to implement Form Object pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-form-object-pattern-in-ruby-on-rails-5gi3)
 - [Mastering Git: 10 Essential Commands You Need to Know](https://dev.to/vladhilko/mastering-git-10-essential-commands-you-need-to-know-8ja)
 - [How to implement Dependency Injection Pattern in Ruby On Rails?](https://dev.to/vladhilko/how-to-implement-dependency-injection-pattern-in-ruby-on-rails-28d6)
 - [How to implement Service Object pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-service-object-pattern-in-ruby-on-rails-2mh8)
