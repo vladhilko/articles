@@ -1,5 +1,6 @@
 List
 
+- [How to implement Pub/Sub pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-pubsub-pattern-in-ruby-on-rails-1l5p)
 - [How to implement Authorizer pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-authorizer-pattern-in-ruby-on-rails-2non)
 - [How to implement Form Object pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-form-object-pattern-in-ruby-on-rails-5gi3)
 - [Mastering Git: 10 Essential Commands You Need to Know](https://dev.to/vladhilko/mastering-git-10-essential-commands-you-need-to-know-8ja)
