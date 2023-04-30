@@ -1,5 +1,6 @@
 List
 
+- [Say Goodbye to Messy Constants: A New Approach to Moving Constants Away from Your Model!](https://dev.to/vladhilko/say-goodbye-to-messy-constants-a-new-approach-to-moving-constants-away-from-your-model-58i1)
 - [How to implement Pub/Sub pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-pubsub-pattern-in-ruby-on-rails-1l5p)
 - [How to implement Authorizer pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-authorizer-pattern-in-ruby-on-rails-2non)
 - [How to implement Form Object pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-form-object-pattern-in-ruby-on-rails-5gi3)
