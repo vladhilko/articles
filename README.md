@@ -1,6 +1,6 @@
 List
 
-
+- [Managing Platform-Specific Features in Rails: The Right Way to Customize App Behavior](https://dev.to/vladhilko/managing-platform-specific-features-in-rails-the-right-way-to-customize-app-behavior-1nc9)
 - [Red Flags of Terrible Developers: Lack of Growth](https://dev.to/vladhilko/red-flags-of-terrible-developers-lack-of-growth-563l)
 - [Red Flags of Terrible Developers: Lack of Collaboration](https://dev.to/vladhilko/red-flags-of-terrible-developers-lack-of-collaboration-507i)
 - [Say Goodbye to Messy Constants: A New Approach to Moving Constants Away from Your Model!](https://dev.to/vladhilko/say-goodbye-to-messy-constants-a-new-approach-to-moving-constants-away-from-your-model-58i1)
