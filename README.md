@@ -1,5 +1,6 @@
 List
 
+- [Managing Feature Release Strategies with Feature Flags in Ruby on Rails](https://dev.to/vladhilko/managing-feature-release-strategies-with-feature-flags-in-ruby-on-rails-124b)
 - [How to add Concern in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-concern-in-ruby-on-rails-3en9)
 - [Managing Platform-Specific Features in Rails: The Right Way to Customize App Behavior](https://dev.to/vladhilko/managing-platform-specific-features-in-rails-the-right-way-to-customize-app-behavior-1nc9)
 - [Red Flags of Terrible Developers: Lack of Growth](https://dev.to/vladhilko/red-flags-of-terrible-developers-lack-of-growth-563l)
