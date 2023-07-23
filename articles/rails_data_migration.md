@@ -155,6 +155,8 @@ end
 
 By adding the `ActiveRecord::Base.transaction` block, we ensure that all the updates are executed as a single atomic operation. If any error occurs during the data migration, the transaction will be rolled back, and the data will remain unchanged, maintaining data consistency and integrity.
 
+*P.S.* If you have very large tables, you need to keep in mind that simply UPDATE all rows would cause a lock against writes on the whole table. That is why updates must be done in batches. The migration must not run within a transaction for the same reason.
+
 ### Optimize DB requests
 
 We have already handled this problem in our rake task, but it's important to mention that we should use the optimal database solution if possible. For example, someone could write our task like this:
