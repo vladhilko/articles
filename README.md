@@ -1,5 +1,6 @@
 List
 
+- [How to Add Database Triggers in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-database-triggers-in-ruby-on-rails-2b8i)
 - [Data Migration Strategies in Ruby on Rails: The Right Way to Manage Missing Data](https://dev.to/vladhilko/data-migration-strategies-in-ruby-on-rails-the-right-way-to-manage-missing-data-3dbe)
 - [How to implement Adapter pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-adapter-pattern-in-ruby-on-rails-1ibg)
 - [Managing Feature Release Strategies with Feature Flags in Ruby on Rails](https://dev.to/vladhilko/managing-feature-release-strategies-with-feature-flags-in-ruby-on-rails-124b)
