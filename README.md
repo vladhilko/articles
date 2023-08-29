@@ -19,6 +19,7 @@
 
 ### Others
 
+- [Introduction to Rails API: How to Create Your First Endpoint in Less Than a Minute?](https://dev.to/vladhilko/introduction-to-rails-api-how-to-create-your-first-endpoint-in-less-than-a-minute-4l66)
 - [How to Conduct High-Quality Code Review?](https://dev.to/vladhilko/how-to-conduct-high-quality-code-review-2loo)
 - [8 Design Principles that every Ruby Developer should know](https://dev.to/vladhilko/8-design-principles-that-every-ruby-developer-should-know-1e7e)
 - [Mastering Git: 10 Essential Commands You Need to Know](https://dev.to/vladhilko/mastering-git-10-essential-commands-you-need-to-know-8ja)
